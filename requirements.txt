@@ -1,0 +1,10 @@
+flask
+flask-restplus
+flask-login
+passlib
+sqlalchemy
+simplejson
+psycopg2
+flask-cors
+requests
+bjoern
